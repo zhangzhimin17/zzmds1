@@ -70,4 +70,11 @@ class Index extends Controller{
 
         $this->success('修改成功', 'user/index/all');
     }
+
+    /**
+     * 删除
+     */
+    public function delete(){
+
+    }
 }
